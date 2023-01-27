@@ -1,5 +1,5 @@
 #Código para analisar os dados sobre o clima em Chicago em novembro de 2017 no site:
-[https://code.s3.yandex.net/data-analyst-eng/chicago_weather_2017.html)
+#[https://code.s3.yandex.net/data-analyst-eng/chicago_weather_2017.html)
 
 import requests as re
 from bs4 import BeautifulSoup
